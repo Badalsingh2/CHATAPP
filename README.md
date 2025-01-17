@@ -106,7 +106,7 @@ Contributions are welcome! If you'd like to improve the app or fix a bug:
 For any questions or feedback, feel free to contact:
 - **Name**: Badal Singh  
 - **Email**: badalubentu@gmai..com  
-- **GitHub**: [Badalsingh2](https://github.com/your-username)
+- **GitHub**: [Badalsingh2](https://github.com/Badalsingh2)
 
 ---
 
